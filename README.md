@@ -54,12 +54,13 @@ Databases & Cache
 
 ### gpms
 A complete Graduation Project Management System for universities — connects students, supervisors, and college admins with an admin panel and APIs.  
-Repo: https://github.com/mubarak-saeed/gpms  
+Repo: https://github.com/mubarak-saeed/gpms-admin-panel
 Live: https://www.unigpms.com
 
-### mediax
-Media gallery website/app with front-end and back-end components and a live demo.  
+### mediax-platform
+MediaX is a digital content platform that supports movies, series, and e-books, with a multi-tier subscription system and a full admin control panel.
 Repo: https://github.com/mubarak-saeed/mediax
+live: https://mediax.unigpms.com
 
 ### tech_course_app
 TechCourse mobile app built with Flutter (RTL support and Cairo font), targeted at students and tech learners.  
